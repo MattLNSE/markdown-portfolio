@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Item 1
+2. Item 2
+   1. Sub-item 2.1
+   2. Sub-item 2.2
+3. Item 3
+4. Item 4
+   * Sub-item 4.1
+     * Sub-item 4.1.1
+     * Sub-item 4.1.2
+   * Sub-item 4.2
